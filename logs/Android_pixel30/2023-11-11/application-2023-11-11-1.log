@@ -1,0 +1,84 @@
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:35:24.936 BaseTest:222 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:35:25.077 BaseTest:229 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:35:25.115 BaseTest:234 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:35:25.158 BaseTest:259 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2023-11-11 06:45:31.105 BaseTest:285 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '172.31.208.1'
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:51:35.371 BaseTest:222 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:51:40.005 BaseTest:229 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:51:43.145 BaseTest:234 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:59:07.512 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:59:10.766 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:59:17.295 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 06:59:53.219 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2023-11-11 07:23:51.032 BaseTest:286 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '172.31.208.1'
+[logsAndroid_pixel30 INFO ] 2023-11-11 07:32:31.695 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 07:32:31.704 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 07:32:31.721 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 07:32:31.761 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2023-11-11 07:32:34.991 BaseTest:286 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: UiAutomator2 Server cannot start because the local port #10000 is busy. Make sure the port you provide via 'systemPort' capability is not occupied. This situation might often be a result of an inaccurate sessions management, e.g. old automation sessions on the same device must always be closed before starting new ones. 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '172.31.208.1'
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:app=C:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk, appium:appActivity=com.swaglabsmobileapp.SplashActivity, appium:appPackage=com.swaglabsmobileapp, appium:automationName=UiAutomator2, appium:chromeDriverPort=11000, appium:deviceName=pixel30, platformName=ANDROID, appium:systemPort=10000, appium:udid=emulator-5554}], desiredCapabilities=Capabilities {app: C:\appium\appiumcici-2.0\ap..., appActivity: com.swaglabsmobileapp.Splas..., appPackage: com.swaglabsmobileapp, automationName: UiAutomator2, chromeDriverPort: 11000, deviceName: pixel30, platformName: ANDROID, systemPort: 10000, udid: emulator-5554}}]
+Capabilities {app: C:\appium\appiumcici-2.0\ap..., appActivity: com.swaglabsmobileapp.Splas..., appPackage: com.swaglabsmobileapp, automationName: UiAutomator2, chromeDriverPort: 11000, deviceName: pixel30, platformName: ANDROID, systemPort: 10000, udid: emulator-5554}
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:17:59.130 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:17:59.140 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:17:59.142 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:17:59.237 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:18:28.788 BaseTest:283 - driver initialized: AndroidDriver:  on ANDROID (4ed2b23b-8b5f-43e3-a7ee-bbbb906e2dfd)
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:18:32.996 LoginTests:47 - 
+****** starting test:invalidUserName******
+
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:18:39.267 BaseTest:336 - login with invalidusername
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:18:42.832 BaseTest:131 - video path: videos\null_null\2023-11-11-08-17-59\LoginTests\invalidUserName.mp4
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:21:26.918 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:21:27.200 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:21:27.459 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:21:39.849 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 INFO ] 2023-11-11 08:24:36.497 BaseTest:283 - driver initialized: AndroidDriver:  on ANDROID (195d6cb7-d20f-4ccd-b7b7-4fc019a90999)
+[logsAndroid_pixel30 INFO ] 2023-11-11 15:09:50.181 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 15:09:50.224 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 15:09:50.236 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 15:09:50.478 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 INFO ] 2023-11-11 15:21:42.380 BaseTest:283 - driver initialized: AndroidDriver:  on ANDROID (a1f92663-9659-4e82-b17a-9cb13b25a814)
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:11:59.319 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:11:59.328 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:11:59.344 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:11:59.376 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:12:25.660 BaseTest:283 - driver initialized: AndroidDriver:  on ANDROID (ad80662e-dfa1-4ff4-aab3-421254839d08)
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:12:30.800 LoginTests:47 - 
+****** starting test:invalidPassword******
+
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:12:36.049 BaseTest:336 - login with standard_user
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:12:37.580 BaseTest:131 - video path: videos\null_null\2023-11-11-16-11-59\LoginTests\invalidPassword.mp4
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:14:24.085 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:14:24.108 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:14:24.118 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:14:24.656 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:14:59.451 BaseTest:283 - driver initialized: AndroidDriver:  on ANDROID (73b95026-69aa-482b-9c12-924bb83516ee)
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:15:34.421 LoginTests:47 - 
+****** starting test:invalidPassword******
+
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:15:44.015 BaseTest:336 - login with standard_user
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:16:43.770 BaseTest:131 - video path: videos\null_null\2023-11-11-16-14-24\LoginTests\invalidPassword.mp4
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:17:36.119 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:17:36.126 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:17:36.129 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:17:36.162 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:17:48.332 BaseTest:283 - driver initialized: AndroidDriver:  on ANDROID (ea438920-a3f5-4691-ae45-e20223f47c8f)
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:17:52.881 LoginTests:47 - 
+****** starting test:successfulLogin******
+
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:17:57.299 BaseTest:336 - login with standard_user
+[logsAndroid_pixel30 INFO ] 2023-11-11 16:17:58.285 BaseTest:131 - video path: videos\null_null\2023-11-11-16-17-36\LoginTests\successfulLogin.mp4
+[logsAndroid_pixel30 INFO ] 2023-11-11 18:31:45.112 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2023-11-11 18:31:45.137 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2023-11-11 18:31:45.147 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2023-11-11 18:31:45.386 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 INFO ] 2023-11-11 18:33:27.929 BaseTest:283 - driver initialized: AndroidDriver:  on ANDROID (2ee02229-adc9-440c-8683-37b93b8d91e0)

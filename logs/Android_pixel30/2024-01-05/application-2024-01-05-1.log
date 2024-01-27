@@ -1,0 +1,57 @@
+[logsAndroid_pixel30 INFO ] 2024-01-05 13:17:17.501 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2024-01-05 13:17:17.534 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2024-01-05 13:17:17.559 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2024-01-05 13:17:17.607 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2024-01-05 13:17:28.899 BaseTest:286 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '192.168.100.158'
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:05:55.083 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:05:55.094 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:05:55.142 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:05:55.191 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2024-01-05 20:06:06.373 BaseTest:286 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '192.168.100.158'
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:07:17.386 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:07:17.394 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:07:17.396 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:07:17.423 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2024-01-05 20:07:29.617 BaseTest:286 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '192.168.100.158'
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:08:18.813 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:08:18.829 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:08:18.847 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:08:18.879 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2024-01-05 20:09:49.783 BaseTest:286 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20000ms 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '192.168.100.158'
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:app=C:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk, appium:appActivity=com.swaglabsmobileapp.SplashActivity, appium:appPackage=com.swaglabsmobileapp, appium:automationName=UiAutomator2, appium:chromeDriverPort=11002, appium:deviceName=pixel30, platformName=ANDROID, appium:systemPort=10002, appium:udid=emulator-5554}], desiredCapabilities=Capabilities {app: C:\appium\appiumcici-2.0\ap..., appActivity: com.swaglabsmobileapp.Splas..., appPackage: com.swaglabsmobileapp, automationName: UiAutomator2, chromeDriverPort: 11002, deviceName: pixel30, platformName: ANDROID, systemPort: 10002, udid: emulator-5554}}]
+Capabilities {app: C:\appium\appiumcici-2.0\ap..., appActivity: com.swaglabsmobileapp.Splas..., appPackage: com.swaglabsmobileapp, automationName: UiAutomator2, chromeDriverPort: 11002, deviceName: pixel30, platformName: ANDROID, systemPort: 10002, udid: emulator-5554}
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:10:24.829 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:10:24.838 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:10:24.840 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:10:24.918 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2024-01-05 20:10:46.403 BaseTest:286 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20000ms 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '192.168.100.158'
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:app=C:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk, appium:appActivity=com.swaglabsmobileapp.SplashActivity, appium:appPackage=com.swaglabsmobileapp, appium:automationName=UiAutomator2, appium:chromeDriverPort=11002, appium:deviceName=pixel30, platformName=ANDROID, appium:systemPort=10002, appium:udid=emulator-5554}], desiredCapabilities=Capabilities {app: C:\appium\appiumcici-2.0\ap..., appActivity: com.swaglabsmobileapp.Splas..., appPackage: com.swaglabsmobileapp, automationName: UiAutomator2, chromeDriverPort: 11002, deviceName: pixel30, platformName: ANDROID, systemPort: 10002, udid: emulator-5554}}]
+Capabilities {app: C:\appium\appiumcici-2.0\ap..., appActivity: com.swaglabsmobileapp.Splas..., appPackage: com.swaglabsmobileapp, automationName: UiAutomator2, chromeDriverPort: 11002, deviceName: pixel30, platformName: ANDROID, systemPort: 10002, udid: emulator-5554}
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:14:12.977 BaseTest:223 - log path: logs\Android_pixel30
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:14:12.983 BaseTest:230 - load config.properties
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:14:12.984 BaseTest:235 - load strings/strings.xml
+[logsAndroid_pixel30 INFO ] 2024-01-05 20:14:13.003 BaseTest:260 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[logsAndroid_pixel30 FATAL] 2024-01-05 20:15:14.069 BaseTest:286 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20000ms 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '192.168.100.158'
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:app=C:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.2.1.apk, appium:appActivity=com.swaglabsmobileapp.SplashActivity, appium:appPackage=com.swaglabsmobileapp, appium:automationName=UiAutomator2, appium:chromeDriverPort=11002, appium:deviceName=pixel30, platformName=ANDROID, appium:systemPort=10002, appium:udid=emulator-5554}], desiredCapabilities=Capabilities {app: C:\appium\appiumcici-2.0\ap..., appActivity: com.swaglabsmobileapp.Splas..., appPackage: com.swaglabsmobileapp, automationName: UiAutomator2, chromeDriverPort: 11002, deviceName: pixel30, platformName: ANDROID, systemPort: 10002, udid: emulator-5554}}]
+Capabilities {app: C:\appium\appiumcici-2.0\ap..., appActivity: com.swaglabsmobileapp.Splas..., appPackage: com.swaglabsmobileapp, automationName: UiAutomator2, chromeDriverPort: 11002, deviceName: pixel30, platformName: ANDROID, systemPort: 10002, udid: emulator-5554}

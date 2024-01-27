@@ -1,0 +1,5 @@
+[logsplatformName_pixel30 INFO ] 2023-11-10 21:06:19.247 BaseTest:222 - log path: logs\platformName_pixel30
+[logsplatformName_pixel30 INFO ] 2023-11-10 21:06:19.260 BaseTest:229 - load config.properties
+[logsplatformName_pixel30 INFO ] 2023-11-10 21:06:19.262 BaseTest:234 - load strings/strings.xml
+[logsplatformName_pixel30 FATAL] 2023-11-10 21:06:19.272 BaseTest:284 - driver initialization failure. ABORT!!!
+java.lang.Exception: Invalid platform! - platformName

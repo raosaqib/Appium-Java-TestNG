@@ -1,0 +1,7 @@
+[logsiOS_iPhone14ProMax INFO ] 2023-11-10 17:27:00.499 BaseTest:220 - log path: logs\iOS_iPhone14ProMax
+[logsiOS_iPhone14ProMax INFO ] 2023-11-10 17:27:00.519 BaseTest:227 - load config.properties
+[logsiOS_iPhone14ProMax INFO ] 2023-11-10 17:27:00.521 BaseTest:232 - load strings/strings.xml
+[logsiOS_iPhone14ProMax INFO ] 2023-11-10 17:27:00.532 BaseTest:268 - appUrl isC:\appium\appiumcici-2.0\appiumcici-2.0\src\test\resources\app\SwagLabsMobileApp.app
+[logsiOS_iPhone14ProMax FATAL] 2023-11-10 17:37:00.562 BaseTest:282 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-PQ6OFHU', ip: '172.31.208.1'
